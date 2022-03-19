@@ -1,27 +1,28 @@
-# About me
-# Tools
+Portfolio
+## About me
+## Tools
 - Jira
 - Postman
 - Sharex
 - PicPick
-# Tech skills
+## Tech skills
 - SQL
 - DevTools
 - Software testing
 - Creating test cases
 - Reporting bugs
-# Certificates
-# Courses
+## Certificates
+## Courses
 - [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
-# Books
+## Books
 - [Certyfikowany tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispp.htm#format/d)
-# Webinars
+## Webinars
 - API HTTP z użyciem Postman [Ifs&Whiles](https://www.ifsandwhiles.com/)
 - Warsztaty: Podstawy SQL część 1 [Ifs&Whiles](https://www.ifsandwhiles.com/)
-# Blogs
+## Blogs
 - [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
 - [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
 - [pwicherski.gitbook.io](https://pwicherski.gitbook.io/)
-# My Test Documentation
-# My Projects 
+## My Test Documentation
+## My Projects 
 
