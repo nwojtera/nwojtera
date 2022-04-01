@@ -7,6 +7,7 @@
 - Sharex
 - PicPick
 - DevTools
+- BrowserStack
 ## Tech skills
 - SQL
 - Python
