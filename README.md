@@ -27,7 +27,7 @@
 - Zaawansowany Python [Stacja.IT](https://stacja.it/)
 - Podstawy GIT oraz Github [Ifs&Whiles](https://www.ifsandwhiles.com/)
 - API HTTP z użyciem Postman [Ifs&Whiles](https://www.ifsandwhiles.com/)
-- Warsztaty: Podstawy SQL część 1 [Ifs&Whiles](https://www.ifsandwhiles.com/)
+- Warsztaty: Podstawy SQL [Ifs&Whiles](https://www.ifsandwhiles.com/)
 ## Blogs
 - [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
 - [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
