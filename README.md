@@ -1,6 +1,13 @@
 # Portfolio
 ## About me
-## Tools
+
+## Tech skills
+- SQL
+- Python
+- Software testing
+- Creating test cases
+- Reporting bugs
+- ## Tools
 - Jira
 - TestLink
 - Postman
@@ -8,12 +15,6 @@
 - PicPick
 - DevTools
 - BrowserStack
-## Tech skills
-- SQL
-- Python
-- Software testing
-- Creating test cases
-- Reporting bugs
 ## Certificates
 ## Courses
 - [Kurs Python 3 od podstaw](https://www.udemy.com/course/kurs-python-od-podstaw-dla-poczatkujacych-od-zera-do-mastera/)
